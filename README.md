@@ -1,4 +1,4 @@
-# 🚀 Java Training Repository
+#  Java Training Repository
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
