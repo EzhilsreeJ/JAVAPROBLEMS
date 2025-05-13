@@ -1,4 +1,9 @@
-#  Java Training Repository
+# 🚀 Java Training Repository
+
+![Java](https://img.shields.io/badge/Java-17-blue.svg)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Type](https://img.shields.io/badge/Project-Type%3A%20Training-informational)
+![Platform](https://img.shields.io/badge/Practice-LeetCode-orange)
 
 > **📅 Duration:** April 2025 – May 2025  
 > **👨‍🏫 Mentor:** Mr. Sukumar  
@@ -87,9 +92,9 @@ Here are the major goals I've completed and upcoming tasks:
 - [ ] Learn and apply **Collections Framework**
 - [ ] Build a mini-project using OOP + file handling
 
+
+
 ---
-
-
 
 ## 📌 Final Notes
 
