@@ -1,42 +1,51 @@
 #  Java Training Repository
 
-A comprehensive collection of Java practice programs developed during my focused training from **April 2025 to May 2025**, under the mentorship of **Mr. Sukumar**.
+> **📅 Duration:** April 2025 – May 2025  
+> **👨‍🏫 Mentor:** Mr. Sukumar  
+> **💻 Focus:** Problem-solving, Core Java, and LeetCode Practice
 
 ---
 
 ## 📘 Overview
 
-This repository documents my hands-on journey into Java, solving algorithmic and data structure problems while building strong fundamentals in:
+Welcome to my **Java practice archive**! This repository reflects my journey of mastering Java through structured problem-solving and hands-on coding. During this focused training, I built a solid foundation in:
 
-- Core Java Syntax
-- Object-Oriented Programming
-- Recursion & Bitwise Operations
-- String and Matrix Manipulation
-- Problem-solving with LeetCode challenges
+- ✅ Core Java Syntax & Programming Fundamentals  
+- 🧠 Object-Oriented Programming (OOP)  
+- 🔁 Recursion & Bitwise Operations  
+- 🧵 String and Matrix Manipulation  
+- 🧩 Algorithm Challenges from LeetCode & more
 
-Each Java file is organized by topic and represents a complete, working solution with clean logic and structure.
+Every Java file in this repository is **well-commented**, **functionally correct**, and designed to reinforce **logical thinking and coding fluency**.
 
 ---
 
 ## 🧩 Topics Covered
 
-- Arrays & Strings  
-- Recursion & Backtracking  
-- Bit Manipulation  
-- Matrix Problems  
-- Sorting & Searching Algorithms  
-- Object-Oriented Programming (OOP)  
-- Basic Multi-threading Concepts  
-- Pattern Printing  
-- Exception Handling & Edge Case Management
+| Category                | Focus Areas                                      |
+|-------------------------|--------------------------------------------------|
+| 🧮 Arrays & Strings      | Traversal, manipulation, pattern matching        |
+| 🔁 Recursion             | Fibonacci, factorial, backtracking basics        |
+| ⚡ Bit Manipulation      | XOR logic, binary tricks, number theory          |
+| 🧾 Matrix Problems       | 2D array traversal, rotation, summation          |
+| 🔍 Sorting & Searching   | Linear/Binary search, custom sort logic          |
+| 🧱 OOP                   | Classes, constructors, inheritance, polymorphism |
+| 🧵 Multi-threading       | Basic threading and concurrency logic            |
+| 🎨 Pattern Printing      | Loops, nested logic for shapes and patterns      |
+| 🧯 Exception Handling    | Try-catch blocks, custom exception practice      |
 
 ---
 
 ## 🛠️ How to Run
 
-Make sure Java is installed (`java -version`) and follow the steps below:
+Ensure Java is installed by running:
+```bash
+java -version
+```
 
-1. **Navigate to the folder**:
+Then, follow these steps to run any program:
+
+1. **Navigate to the directory**:
    ```bash
    cd JAVAPROBLEMS
    ```
@@ -46,42 +55,51 @@ Make sure Java is installed (`java -version`) and follow the steps below:
    javac src/recursion/SumOfArrayUsingRecursion.java
    ```
 
-3. **Run the compiled class**:
+3. **Run the program**:
    ```bash
    java src.recursion.SumOfArrayUsingRecursion
    ```
 
-> ⚠️ Ensure the file name and class name match exactly. Java is case-sensitive.
+> ⚠️ **Note:** File names and class names must match exactly. Java is case-sensitive.
 
 ---
 
-## 🧠 Learning Objectives
+## 🎯 Learning Objectives
 
-This repository was built to strengthen my understanding of:
+This training was designed to help me:
 
-- Writing clean and modular Java code
-- Practicing algorithmic problem solving
-- Structuring reusable logic using OOP principles
-- Building confidence through daily coding on LeetCode and similar platforms
-
----
-
-## ✅ Roadmap
-
-- [x] Complete core Java problem set
-- [ ] Add more advanced LeetCode problems
-- [ ] Integrate test cases (JUnit)
-- [ ] Explore Java Collections framework
-- [ ] Build a mini-project using OOP and file handling
+- ✍️ Write clean, modular, and reusable Java code  
+- 🧠 Strengthen problem-solving with real-world challenges  
+- 🔄 Understand recursion and iterative logic deeply  
+- 🧱 Apply OOP principles in practical code  
+- 📚 Gain confidence through consistent hands-on practice
 
 ---
 
+## 📅 Roadmap
 
+Here are the major goals I've completed and upcoming tasks:
 
-## 📌 Notes
-
-This repository is intended as a personal training log and reference archive. It may serve as a useful resource for other Java beginners as well. All files are kept simple, readable, and self-contained.
+- [x] Mastered core Java syntax and logic building
+- [x] Solved 50+ structured problems
+- [ ] Complete 100+ LeetCode problems
+- [ ] Add test cases using **JUnit**
+- [ ] Learn and apply **Collections Framework**
+- [ ] Build a mini-project using OOP + file handling
 
 ---
 
-**Happy Coding!** 🚀
+
+
+## 📌 Final Notes
+
+This repository is a **personal learning log** and may help others beginning their Java journey.  
+Every program is built with clarity and simplicity in mind, making it easy to read and learn from.
+
+---
+
+> **“The best way to learn is to build. The best way to grow is to challenge yourself.”**
+
+---
+
+### 💡 Happy Coding & Keep Building! 💡
